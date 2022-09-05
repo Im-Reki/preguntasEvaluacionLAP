@@ -28,6 +28,7 @@ Annonated (Estos almacenan texto persistente a un Commit.)
 - git log: Te deja ver las versiones anteriores del proyecto, provee informacion sobre las versiones que se mandaron anteriormente de ese repositorio.
 - git push: "Empuja" los archivos modificados hacia el repositorio.
 
-
+6. ¿Porque se debe crear un Archivo README.md?
+- Sirve para compartir informacion util sobre el repositorio, el porque es util, como se usa, que pueden hacer y como lo pueden usar.
 
 
